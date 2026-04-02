@@ -123,13 +123,7 @@ GET /api/activities
 Authorization: Bearer <token>
 ```
 
----
 
-## 📸 Screenshots
-
-*Add your screenshots here*
-
----
 
 ## 🚀 Future Improvements
 
